@@ -21,7 +21,7 @@ class Indigo(ColorScheme):
                 if context.selected:
                     attr |= normal
                 if context.link:
-                    fg = cyan
+                    fg = magenta
                 if context.directory:
                     attr |= bold
                 elif context.executable:
