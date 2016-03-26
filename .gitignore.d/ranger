@@ -4,5 +4,6 @@
 !/.config/ranger/colorschemes
 !/.config/ranger/colorschemes/indigo.py
 !/.config/ranger/rc.conf
+!/.config/ranger/rifle.conf
 !/.gitignore.d
 !/.gitignore.d/ranger
